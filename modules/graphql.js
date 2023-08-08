@@ -1,6 +1,6 @@
 // Define the URL of the GraphQL endpoint
-// const url = 'https://any-smart-contract-api-ufi6.onrender.com/graphql';
-const url = 'http://localhost:4000/graphql'
+const url = 'https://any-smart-contract-api-ufi6.onrender.com/graphql';
+// const url = 'http://localhost:4000/graphql'
 
 
 
